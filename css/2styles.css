@@ -1,0 +1,15 @@
+h1 {
+  color: brown;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.class {
+  color: blue;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  color: #0400ff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-indent: 0%;
+}
